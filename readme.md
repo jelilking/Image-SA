@@ -54,7 +54,7 @@ The app relies on a third-party image search API to fetch image data. Ensure tha
 
 ## Acknowledgments
 
-Special thanks to [mention any contributors or resources] for their contributions to this project.
+Special thanks to https://api.unsplash.com for their contributions to this project.
 
 Feel free to contribute by reporting issues, suggesting enhancements, or submitting pull requests!
 
